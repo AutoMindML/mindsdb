@@ -1,0 +1,4 @@
+uv venv --python 3.10
+# activate venv
+uv pip install .
+uv pip install -r requirements/requirements-automl.txt
